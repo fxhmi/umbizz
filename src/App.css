@@ -2,3 +2,7 @@ body {
   font-family: 'Bodoni Moda';
   padding: 20px 80px;
 }
+a {
+  text-decoration:none;
+  color: black;
+}
